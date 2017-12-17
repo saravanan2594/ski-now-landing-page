@@ -1,0 +1,513 @@
+body{
+	background-color: #99bcd9;
+	font-family: Helvetica;
+}
+h2{
+	text-align: center;
+	margin-bottom: 23px;
+	color: #fff;
+	margin-left: 40px;
+}
+h3{
+	text-align: center;
+}
+.update-details{
+	padding-left: 27px;
+	font-size: 22px;
+}
+.customer-review-title{
+	padding-left: 27px;
+
+}
+.header{
+	float: right;
+	color: #fff;
+}
+li a, .dropbtn {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 10px 16px;
+    text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+    background-color: #121824;
+    color: #fff;
+     text-decoration: none;
+}
+
+li.dropdown {
+    display: inline-block;
+    font-size: 16px;
+
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #121824;
+    min-width: 202px;
+}
+
+.dropdown-content a {
+    color: #fff;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {background-color: #121824}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+
+}
+
+.quite-review{
+	padding-left: 24px;
+}
+.star-review{
+	padding-left: 27px;
+	font-size: 17px;
+}
+.material-icons{
+	float: right;
+	margin-top: -5px;
+}
+h5{
+	padding-left: 27px;
+	color: #ff6b01;
+	font-size: 20px;
+}
+ul li{
+	font-size: 18px;
+	font-weight: 250;
+
+}
+.number{
+	color: #536895;
+	padding-left: 5px;
+	white-space: nowrap;
+}
+.star-review-small{
+	padding-left: 27px;
+	font-size: 17px;
+}
+.head{
+	text-align: center;
+	color: #fff;
+	background-color: #fff;
+	margin: auto;
+}
+.nav-list{
+	display: inline;
+	white-space: nowrap;
+	color: #fff;
+	text-align: center;
+	margin: 10px 0px 10px 0px;
+	padding: 12px;
+	font-size: 16px;
+}
+.ul-list{
+	display: inline;
+}
+.nav-list-details{
+	display: inline;
+	color: #fff;
+	text-align: center;
+	background-color: #121824;
+	margin: 10px 10px 20px 10px;
+	padding: 20px 20px 45px 20px;
+	font-size: 13px;
+
+}
+.nav-bar{
+	margin: 10px;
+}
+.bg-color{
+	background-image:url(images/002_panorama.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
+
+}
+.about{
+	background-image:url(images/bg1.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	margin: 10px 0px 0px 0px;
+	text-align: center;
+}
+.box-model{
+	margin: 70px 10px 10px 0px;
+	padding: 10px;
+	background-color: #f1f4f7;
+	border: 1px solid #fff;
+	font-size: 13px;
+}
+.offer-details{
+	margin: 20px 10px 60px 35px;
+	padding: 10px;
+	color: #fff;
+	background-color: #0f1520;
+	border: 1px solid #000;
+	border-radius: 5px;
+}
+.home-intro{
+	background-color: #fff;
+	margin: -20px 0px 50px 0px;
+	
+}
+.img-view{
+	margin-bottom: 15px;
+}
+
+.img-view-final{
+	margin-bottom: 50px;
+}
+.holiday-details{
+	margin-left: 30px;
+	//letter-spacing: 2px;
+	margin-bottom: 10px;
+	font-size: 16px;
+}
+.food{
+	margin-bottom: 10px;
+	font-size: 16px;
+	margin-left: 30px;
+}
+.bg-holiday{
+	background-image:url(images/006_Skis-and-snow.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	margin: 0px 0px 20px 0px;
+
+}
+.glyphicon{
+	color: #ffc200;
+}
+.ski-deal{
+	margin: 20px 0px 20px 50px;
+	padding: 0px 30px 10px 0px;
+	background-color: #f3f3f3;
+	border-color: 1px solid #f3f3f3;
+}
+.money-intro{
+	margin: 0px;
+	padding: 5px 12px;
+	background-color: #ff6b01;
+	font-size: 20px;
+	border-color: 1px solid green;
+	position: absolute;
+	//top: 0px;
+	bottom: 0px;
+	right: 0px;
+	color: #fff;
+
+}
+.new-site{
+	margin-top: -50px;
+}
+.customer-hussian{
+	font-size: 13px;
+	margin-left: 25px;
+}
+.customer-amin{
+	font-size: 13px;
+	margin-right: 25px;
+}
+.glyphicon glyphicon-star{
+	size: 30px; 
+	background-color: yellow;
+	padding-left: 27px;
+}
+.review-border{
+	margin: 20px 0px 5px 0px;
+	padding: 1px 0px 1px 0px;
+	background-color: #f3f3f3;
+}
+h1{
+	text-align: center;
+}
+h6{
+	font-weight: 800;
+}
+.img-ski{
+	float: left;
+	position: relative;
+	right: 112px;
+}
+.img-blog{
+	position: relative;
+	right: 11px;
+
+}
+.social{
+	width: 300px;
+    padding: 5px 3px 0px 3px;
+    margin: 5px 0px 15px 65px;
+	border: 2px solid #88a3bc;
+	color: #88a3bc;
+}
+.service-details{
+	margin: 10px 1px 20px 66px;
+	 width: 1027px;
+	 padding: 3px 0px 98px 0px;
+	border: 2px solid #88a3bc;
+	color: #88a3bc;
+	font-weight: 600;
+}
+.footer{
+	background-color: #8badf5;
+	padding: 0px 20px;
+}
+.footer-service{
+	padding: 20px 20px 2px 25px;
+	white-space: nowrap;
+	text-transform: uppercase;
+	font-size: 20px;
+}
+.footer-service-contact{
+	padding: 0px 20px 0px 25px;
+
+}
+.contact-us{
+	color: #fff;
+}
+.section-seperator {
+	border-bottom: 2px solid #f3f3f3;
+	margin: 1px 61px;
+}
+.social-section-seperator {
+	border-bottom: 2px solid #f3f3f3;
+	margin: 22px 61px 1px 61px;
+}
+.follow-font-details{
+	font-weight: 600;	
+}
+
+
+
+
+/* media query for mobile  */
+
+@media only screen and (max-width: 768px) {
+
+.header{
+	float: left;
+	color: #fff;
+	font-size: 12px;
+	padding: 0px 0px 0px 50px;
+}
+.nav-list{
+	display: inline;
+	text-align: center;
+	margin: 0px 0px 0px 70px;
+	padding: 20px;
+	white-space: nowrap;
+	text-align: center;
+}
+.quite-review{
+	padding-right: 5px;
+	font-size: 17px;
+}
+.wd-100{
+	width: 100%;
+}
+
+.nav-list-details{
+	display: inline;
+	color: #fff;
+	text-align: center;
+	//background-color: #121824;
+	margin: 10px 10px 20px 10px;
+	padding: 20px 20px 45px 20px;
+}
+.social{
+	 width: 200px;
+    padding: 5px 3px 0px 3px;
+    margin: 15px auto;
+	border: 2px solid #88a3bc;
+	color: #88a3bc;
+	font-weight: 600;
+}
+.home-intro{
+	background-color: #fff;
+	margin: -10px 0px 0px 0px;
+	
+}
+.quite-review{
+	padding-left: 27px;
+	padding-right: 20px;
+}
+.img-view{
+	margin-bottom: 0px;
+}
+.img-view-final{
+	margin-bottom: 0px;
+}
+.service-details{
+	margin: 10px auto;
+	width: 200px;
+	 padding: 3px 0px 0px 0px;
+	border: 2px solid #88a3bc;
+	color: #88a3bc;
+}
+.star-review{
+	padding-left: 27px;
+	font-size: 12px;
+}
+.star-review-small{
+	padding-left: 27px;
+	font-size: 12px;
+}
+.bg-holiday{
+	margin: 0px 0px 0px 0px;
+
+}
+.ski-deal{
+	margin: 40px 0px 20px 15px;
+	padding: 0px 10px 10px 0px;
+	background-color: #f3f3f3;
+	border-color: 1px solid #f3f3f3;
+}
+.box-model{
+	margin: 7px 10px 1px 10px;
+	padding: 10px;
+	background-color: #f1f4f7;
+	border: 1px solid #fff;
+	font-size: 11px;
+}
+.offer-details{
+	margin: 10px 35px 32px 35px;
+	padding: 10px;
+	color: #fff;
+	background-color: #0f1520;
+	border: 1px solid #000;
+	border-radius: 5px;
+	font-size: 10px;
+}
+.money-intro{
+	margin: 0px 15px 0px 0px;
+	padding: 0px 3px;
+	background-color: #ff6b01;
+	font-size: 12px;
+	border-color: 1px solid green;
+	position: absolute;
+	//top: 0px;
+	bottom: 0px;
+	right: 0px;
+	color: #fff;
+
+}
+
+.customer-hussian{
+	font-size: 13px;
+	margin-left: 25px;
+	margin-right: 25px;
+}
+
+.new-site{
+	margin-top: -40px;
+}
+h1{
+	font-size: 18px;
+}
+h2{
+	font-size: 14px;
+	white-space: nowrap;
+	padding: 10px 10px 0px 0px;
+}
+h4{
+	//white-space: nowrap;
+	font-size: 14px;
+}
+.nav-list{
+	text-align: center;
+}
+.img-ski{
+	display: none;
+}
+.img-blog{
+	position: relative;
+	right: 0px;
+
+}
+.nav-list-details{
+	display: none;
+}
+.bg-holiday{
+	background-image: none;
+}
+.about{
+	background-image: none;
+}
+.update-details{
+	padding-left: 27px;
+	font-size: 14px;
+}
+.holiday-details{
+	margin-left: 20px;
+	margin-right: 20px;
+	//letter-spacing: 2px;
+	margin-bottom: 10px;
+	font-size: 12px;
+}
+.food{
+	margin-bottom: 10px;
+	font-size: 12px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+ul li{
+	font-size: 11px;
+	margin-right: 5px;
+	//font-weight: 100;
+
+}
+h3{
+	font-size: 12px;
+}
+h5{
+ font-size: 16px;
+}
+li a, .dropbtn {
+ 
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+   display: none;
+}
+
+li.dropdown {
+   display: none;
+}
+nav li{
+	margin: 0px 0px 0px -13px;
+}
+.dropdown-content {
+    display: none;
+   
+}
+
+.dropdown-content a {
+    display: none;
+}
+
+.dropdown-content a:hover {display: none;}
+
+.dropdown:hover .dropdown-content {
+   display: none;
+
+}
+.footer-service{
+	white-space: nowrap;
+	text-transform: uppercase;
+}
+
+.footer-small{
+	float: left;
+	margin-left: 1px;
+	}
+}
