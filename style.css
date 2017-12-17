@@ -432,7 +432,9 @@ h6{
 	color: #fff;
 
 }
-
+.container:hover .overlay {
+  display:none;
+}
 .customer-hussian{
 	font-size: 13px;
 	margin-left: 25px;
