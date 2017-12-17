@@ -113,6 +113,37 @@ ul li{
 .ul-list{
 	display: inline;
 }
+
+.overlay {
+  position: absolute;
+  bottom: 0;
+  left: 131px;
+  right: 20px;
+  background-color: #000;
+  padding: 0px auto;
+  overflow: hidden;
+  float: left;
+  width: 55%;
+  height: 0;
+  transition: .5s ease;
+}
+
+.container:hover .overlay {
+  height: 30%;
+}
+
+.text {
+  color: white;
+  float: left;
+  padding: auto;
+  font-size: 12px;
+  position: absolute;
+  overflow: hidden;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
 .nav-list-details{
 	display: inline;
 	color: #fff;
