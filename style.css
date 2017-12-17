@@ -47,7 +47,7 @@ li.dropdown {
     display: none;
     position: absolute;
     background-color: #121824;
-    min-width: 202px;
+    min-width: 203px;
 }
 
 .dropdown-content a {
