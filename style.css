@@ -531,11 +531,9 @@ nav li{
     display: none;
    
 }
-
 .dropdown-content a {
     display: none;
 }
-
 .dropdown-content a:hover {display: none;}
 
 .dropdown:hover .dropdown-content {
@@ -546,7 +544,6 @@ nav li{
 	white-space: nowrap;
 	text-transform: uppercase;
 }
-
 .footer-small{
 	float: left;
 	margin-left: 1px;
