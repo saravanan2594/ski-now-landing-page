@@ -425,7 +425,6 @@ h6{
 	font-size: 12px;
 	border-color: 1px solid green;
 	position: absolute;
-	
 	bottom: 0px;
 	right: 0px;
 	color: #fff;
@@ -434,7 +433,6 @@ h6{
 .overlay {
    display: none;
 }
-
 .container:hover .overlay {
   display: none;
 }
